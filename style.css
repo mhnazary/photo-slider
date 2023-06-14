@@ -1,0 +1,64 @@
+div.container  {
+    height: 350px;
+    width: 600px;
+    background-color: gray;
+    margin: 0rem auto;
+    display: flex;
+    margin-top: 5rem;
+    justify-content: center;
+}
+div.pause {
+    height: 60px;
+    width: 600px;
+    margin: 0rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#slider-pause,
+#slider-resume {
+    padding: .6rem 1.6rem;
+    border-radius: .5rem;
+    font-size: 1rem;
+    font-family: serif;
+    margin-right: 1rem;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.div-right {
+    width: 5%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.div-pic {
+    width: 90%;
+    background-color: aqua;
+    height: 100%;
+}
+
+.div-left {
+    width: 5%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.slider {
+    height: 100%;
+    width: 100%;
+}

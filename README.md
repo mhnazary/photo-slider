@@ -1,4 +1,4 @@
-# ToDo-list
+# Photo-slider
 
 Create with the aim of mentioning one of the thematics of events that I like the most that is that of the video games and using all my knowledge in the first module of the program microverse to give it form and functionality. 
 
@@ -39,7 +39,7 @@ Will have future changes in the next days!
 
 
 
-# 📖 to-do-list <a name="about-project"></a>
+# 📖 photo-slider <a name="about-project"></a>
 
 > Testing all the information learned in the course in the areas of HTML, CSS and JS to achieve the results shown..
 > You can watch this video of me commenting on my first advances in creating this web page and how I felt in the process and the Features I added. 
@@ -98,7 +98,7 @@ Use these commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/mhnazary/ToDo-list.git
+  git clone https://github.com/mhnazary/photo-slider.git
 ```
 --->
 
